@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.check-box{
+    color: rgba(112, 101, 192, 0.6);
+}
+.plan-button{
+    background-color: rgba(244, 150, 209, 0.1);
+}
+.package{
+    background-color: #3F87F5;
+    border-radius: 24px;
+}
+.footer-height{
+    height: 280px;
+}
